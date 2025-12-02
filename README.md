@@ -23,7 +23,6 @@ Achieved the highest accuracy and F1-score.
 - Data preprocessing & EDA  
 - Encoding & feature engineering  
 - Model selection  
--  
 - Handling imbalanced datasets
 
 
